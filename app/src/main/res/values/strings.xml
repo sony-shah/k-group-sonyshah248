@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DigiLocker Assignment</string>
+
+    <string name="textview">DigiLocker<br> Varified </br>  </string>
+    <string name="textview2">Did you know? <br><b> Traffic Police across india now accept driving licsence from DigiLocker</b></br> </string>
+
+    <string name="textview8"><b> Union of india Driving License</b><br> Issued by:Assist RTO,Pune Maharashtra</br> </string>
+
+</resources>
